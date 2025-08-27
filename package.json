@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/rerum-expedita-voluptates-quasi",
-  "version": "18.45.429",
+  "version": "18.45.430",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -765,5 +765,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/rerum-expedita-voluptates-quasi/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
